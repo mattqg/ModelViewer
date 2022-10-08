@@ -1,0 +1,6 @@
+bin
+.Python
+lib
+include
+venv
+__pycache__
